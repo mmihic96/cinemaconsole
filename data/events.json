@@ -1,0 +1,1 @@
+[{"eventID": 1, "movieID": 1, "price": 300.0, "dateTime": "12/12/2018 12:30", "hallID": "A1", "seat_available": 20, "deleted": false}, {"eventID": 2, "movieID": 2, "price": 33.0, "dateTime": "12/12/2018 14:30", "hallID": "A1", "seat_available": 10, "deleted": false}]

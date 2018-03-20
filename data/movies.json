@@ -1,0 +1,14 @@
+[
+    {
+        "movieID": 1,
+        "movie_name": "Rush Hour 1",
+        "movie_duration": 120,
+        "movie_type": "Comedy"
+    },
+    {
+        "movieID": 2,
+        "movie_name": "Rush Hour 2",
+        "movie_duration": 150,
+        "movie_type": "Comedy"
+    }
+]

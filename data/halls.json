@@ -1,0 +1,14 @@
+[
+    {
+        "hallID": "A1",
+        "seat_number": 30
+    },
+    {
+        "hallID": "A2",
+        "seat_number": 60
+    },
+    {
+        "hallID": "A3",
+        "seat_number": 20
+    }
+]
